@@ -1,0 +1,11 @@
+a=int(input("enter the firs number:"))
+b=int(input("Enter the second number:"))
+c =int(a+b)
+d =int(a-b)
+e =int(a*b)
+f =float(a/b)
+print("the sum of",a,"and",b,"is",c)
+print("the substraction of",a,"and",b,"is",d)
+print("the multiplication of",a,"and",b,"is",e)
+print("the division of",a,"and",b,"is",f)
+
